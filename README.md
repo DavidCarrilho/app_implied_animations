@@ -2,6 +2,10 @@
 
 A Flutter project of a Flutterando masterclass implied animations challenge
 
+<p float="left">
+  <img src="screenshot\screenshot.gif" width="200">
+</p>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
