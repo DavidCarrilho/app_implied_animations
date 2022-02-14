@@ -8,8 +8,8 @@ class AnimatedButton extends StatefulWidget {
 }
 
 class _AnimatedButtonState extends State<AnimatedButton> {
-  late Color color = Colors.blue;
-  late double borderRadius = 150.0;
+  Color color = Colors.blue;
+  double borderRadius = 150.0;
   bool clicked = false;
 
   @override
